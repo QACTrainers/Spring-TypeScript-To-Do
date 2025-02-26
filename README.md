@@ -1,4 +1,4 @@
-# Todo List
+# To-Do List
 
 Example project for TypeScript-Springboot To-Do list app
 
