@@ -7,7 +7,7 @@ Example project for TypeScript-Springboot To-Do list app
 #### Frontend
 ```bash
 cd frontend
-npm install
+npm install --force
 npm start
 ```
 
